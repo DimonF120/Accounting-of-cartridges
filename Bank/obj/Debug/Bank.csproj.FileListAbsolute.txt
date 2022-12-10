@@ -1,0 +1,229 @@
+F:\Предипл. практика\Bank\Bank\bin\Debug\Bank.exe.config
+F:\Предипл. практика\Bank\Bank\bin\Debug\Bank.exe
+F:\Предипл. практика\Bank\Bank\bin\Debug\Bank.pdb
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormMenu.resources
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.exe
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.pdb
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormCHBU.resources
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormOtchet.resources
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormEditCHBU.resources
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormEditKatridj.resources
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\Bank.exe.config
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\Bank.exe
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\Bank.pdb
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormCHBU.resources
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormEditCHBU.resources
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormEditKatridj.resources
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormMenu.resources
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormOtchet.resources
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.exe
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.pdb
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormPoisk.resources
+F:\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.dll
+F:\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.SqlServer.dll
+F:\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.dll
+F:\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.xml
+F:\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.SqlServer.xml
+F:\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.xml
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormPoisk.resources
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+d:\Flash3112\Предипл. практика\Bank\bin\Debug\Bank.exe.config
+d:\Flash3112\Предипл. практика\Bank\bin\Debug\Bank.exe
+d:\Flash3112\Предипл. практика\Bank\bin\Debug\Bank.pdb
+d:\Flash3112\Предипл. практика\Bank\bin\Debug\EntityFramework.dll
+d:\Flash3112\Предипл. практика\Bank\bin\Debug\EntityFramework.SqlServer.dll
+d:\Flash3112\Предипл. практика\Bank\bin\Debug\System.Data.SQLite.dll
+d:\Flash3112\Предипл. практика\Bank\bin\Debug\System.Data.SQLite.EF6.dll
+d:\Flash3112\Предипл. практика\Bank\bin\Debug\System.Data.SQLite.Linq.dll
+d:\Flash3112\Предипл. практика\Bank\bin\Debug\EntityFramework.xml
+d:\Flash3112\Предипл. практика\Bank\bin\Debug\EntityFramework.SqlServer.xml
+d:\Flash3112\Предипл. практика\Bank\bin\Debug\System.Data.SQLite.xml
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.FormCHBU.resources
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.FormEditCHBU.resources
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.FormEditKatridj.resources
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.FormKatridj.resources
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.FormMenu.resources
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.FormOtchet.resources
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.FormPoisk.resources
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.Properties.Resources.resources
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.csproj.CopyComplete
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.exe
+d:\Flash3112\Предипл. практика\Bank\obj\Debug\Bank.pdb
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormKartridj.resources
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.dll
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.SqlServer.dll
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.dll
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.EF6.dll
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.Linq.dll
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.xml
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.SqlServer.xml
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.xml
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormKartridj.resources
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormEditZayavki.resources
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormEditZayavki.resources
+F:\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.dll
+F:\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.dll
+F:\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.pdb
+F:\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.xml
+F:\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.pdb
+F:\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.xml
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.dll
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.dll
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.pdb
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.xml
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.pdb
+d:\Flash3112\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.xml
+d:\Flash3112\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormDGVOtchet.resources
+F:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormDGVOtchet.resources
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\Bank.exe.config
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\Bank.exe
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\Bank.pdb
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.dll
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.SqlServer.dll
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.dll
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.dll
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.dll
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.EF6.dll
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.Linq.dll
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.xml
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.SqlServer.xml
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.pdb
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.xml
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.pdb
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.xml
+d:\Flash\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.xml
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormCHBU.resources
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormDGVOtchet.resources
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormEditCHBU.resources
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormEditKatridj.resources
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormEditZayavki.resources
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormKartridj.resources
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormMenu.resources
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormOtchet.resources
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormPoisk.resources
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.exe
+d:\Flash\Предипл. практика\Bank\Bank\obj\Debug\Bank.pdb
+E:\Предипл. практика\Bank\Bank\bin\Debug\Bank.exe.config
+E:\Предипл. практика\Bank\Bank\bin\Debug\Bank.exe
+E:\Предипл. практика\Bank\Bank\bin\Debug\Bank.pdb
+E:\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.dll
+E:\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.SqlServer.dll
+E:\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.dll
+E:\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.dll
+E:\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.dll
+E:\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.xml
+E:\Предипл. практика\Bank\Bank\bin\Debug\EntityFramework.SqlServer.xml
+E:\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.pdb
+E:\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.xml
+E:\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\Предипл. практика\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.xml
+E:\Предипл. практика\Bank\Bank\bin\Debug\System.Data.SQLite.xml
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormCHBU.resources
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormDGVOtchet.resources
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormEditCHBU.resources
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormEditKatridj.resources
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormEditZayavki.resources
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormKartridj.resources
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormMenu.resources
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormOtchet.resources
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.FormPoisk.resources
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.exe
+E:\Предипл. практика\Bank\Bank\obj\Debug\Bank.pdb
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\Bank.exe.config
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\Bank.exe
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\Bank.pdb
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\EntityFramework.dll
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\EntityFramework.SqlServer.dll
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.dll
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\ExcelDataReader.dll
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\System.Data.SQLite.dll
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\System.Data.SQLite.EF6.dll
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\System.Data.SQLite.Linq.dll
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\EntityFramework.xml
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\EntityFramework.SqlServer.xml
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\ExcelDataReader.pdb
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\ExcelDataReader.xml
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.pdb
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.xml
+F:\ДИПЛОМ\Bank\Bank\bin\Debug\System.Data.SQLite.xml
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormCHBU.resources
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormDGVOtchet.resources
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormEditCHBU.resources
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormEditKatridj.resources
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormEditZayavki.resources
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormKartridj.resources
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormMenu.resources
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormOtchet.resources
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormPoisk.resources
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.exe
+F:\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.pdb
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\Bank.exe.config
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\Bank.exe
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\Bank.pdb
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\EntityFramework.dll
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\EntityFramework.SqlServer.dll
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.dll
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\ExcelDataReader.dll
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\System.Data.SQLite.dll
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\EntityFramework.xml
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\EntityFramework.SqlServer.xml
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\ExcelDataReader.pdb
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\ExcelDataReader.xml
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\ExcelDataReader.DataSet.xml
+E:\Колледж\ДИПЛОМ\Bank\Bank\bin\Debug\System.Data.SQLite.xml
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormCHBU.resources
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormDGVOtchet.resources
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormEditCHBU.resources
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormEditKatridj.resources
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormEditZayavki.resources
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormKartridj.resources
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormMenu.resources
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormOtchet.resources
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.FormPoisk.resources
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.exe
+E:\Колледж\ДИПЛОМ\Bank\Bank\obj\Debug\Bank.pdb
